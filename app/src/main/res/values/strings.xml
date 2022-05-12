@@ -3,5 +3,6 @@
     <string name="entrar">Entrar</string>
     <string name="email">E-mail</string>
     <string name="senha">Senha</string>
-    <string name="txt_cadastro">Crie uma conta clicando aqui</string>
+    <string name="txt_cadastre_se">Ainda não tem uma conta?</string>
+    <string name="txt_cadastro">Crie agora!</string>
 </resources>

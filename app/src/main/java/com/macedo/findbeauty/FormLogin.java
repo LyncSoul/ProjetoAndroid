@@ -13,7 +13,10 @@ public class FormLogin extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+        // Esconde a Action Bar
         getSupportActionBar().hide();
+
+        // Esconde a Status Bar
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
 
         setContentView(R.layout.activity_form_login);
